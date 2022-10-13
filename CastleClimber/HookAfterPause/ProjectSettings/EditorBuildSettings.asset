@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d625cd326c2b3b64ab7955577e17b151
+  - enabled: 1
+    path: Assets/Scenes/Andru.unity
+    guid: e32aa02384a4c6044968b38bc598ebeb
+  - enabled: 1
+    path: Assets/Scenes/castle.unity
+    guid: 0a77777b36256be4bb8ea8b0aa33fc7b
+  - enabled: 1
+    path: Assets/AI_Experimental/PercobaanCicak.unity
+    guid: 5e965e6eb40847c4c805cdc3d6909fe2
+  - enabled: 1
+    path: Assets/Dialog/StartCutscene.unity
+    guid: 7486f5f925bad7847a1d81b72d0aead1
+  - enabled: 1
+    path: Assets/Dialog/tarung.unity
+    guid: 23e245825f0fe8d4bbc22b936ebd4945
+  m_configObjects: {}

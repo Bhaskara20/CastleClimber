@@ -1,0 +1,1 @@
+Disarankan untuk menuju folder Assets/Scenes/MainMenu
